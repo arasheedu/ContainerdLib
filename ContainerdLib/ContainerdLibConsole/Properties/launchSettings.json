@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ContainerUiConsole": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
